@@ -9,7 +9,7 @@
     return dispatch_get_main_queue();
 }
 
-RCT_EXPORT_MODULE(GeouniqBeta)
+RCT_EXPORT_MODULE(RNGeouniqBeta)
 
 
 RCT_EXPORT_METHOD(enable:(RCTResponseSenderBlock) successCallback)
