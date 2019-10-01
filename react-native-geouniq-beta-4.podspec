@@ -19,7 +19,7 @@ s.preserve_paths = 'LICENSE', 'README.md', 'package.json', 'index.js'
 s.source_files   = './*.{h,m}'
 
 s.dependency 'React'
-#s.dependency 'GeoUniq-Swift5'
+s.dependency 'GeoUniq-Swift5'
 end
 
   
